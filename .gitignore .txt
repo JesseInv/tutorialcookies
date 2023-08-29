@@ -1,6 +1,5 @@
 # ignore all .txt files 
-
+*.txt
 Employee Salaries.txt
 BeepBeepBoop.txt
 me.txt
-secrets.txt
